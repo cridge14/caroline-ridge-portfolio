@@ -11,21 +11,16 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! My name is Caroline Ridge (she/her) and I am a first-year MSPPM student on the D.C. Track! This is my first ever class using Tableau or Github for data visualization projects, so I am very excited to learn some new skills. 
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
+1. Effectively use data visualizations to tell a story. 
+2. Accessible ways to present data to multiple stakeholders. 
+3. How to build my own portfolio!  
 
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
+After graduation, I hope to work in a think tank, which is why learning how to honestly present data in digestible ways is very important! 
 # Portfolio
 
 # Examples
@@ -39,7 +34,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
+[Part I](final-project-part-one) 
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
@@ -105,8 +100,8 @@ Make sure to check these from your publicly accessible URL to make sure they're 
 Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
 
 ## References
-_List any references you used here._
+No references! 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+No AI use! 
 
