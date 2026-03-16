@@ -9,7 +9,7 @@ Hi! My name is Caroline Ridge (she/her) and I am a first-year MSPPM student on t
 # Who I am
 Check out these pictures to learn a little bit more about me and my hobbies! 
 
-![Me and Friends at a Pirates Baseball Game! ](IMG_7548.HEIC)
+![Me and Friends at a Pirates Baseball Game! ](IMG_7548.jpg)
 
 
 # What I hope to learn
