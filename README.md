@@ -6,6 +6,12 @@ This is my public portfolio for Telling Stories with Data at CMU!  Check out all
 # About me
 Hi! My name is Caroline Ridge (she/her) and I am a first-year MSPPM student on the D.C. Track. This is my first ever class using Tableau or Github for data visualization projects, so I am very excited to learn some new skills and hone in my data visualization skills. 
 
+# Who I am
+Check out these pictures to learn a little bit more about me and my hobbies! 
+
+![what will this picture be](funny-dog-unsplash.jpg)
+> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 # What I hope to learn
 Everything there is to learn! I want to become a wiz at data visualization. But more specifically, here is what I *really* want to learn. 
 
