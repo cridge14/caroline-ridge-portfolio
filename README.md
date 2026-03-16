@@ -20,7 +20,7 @@ Everything there is to learn! I want to become a wiz at data visualization. But 
 2. Accessible ways to present data to multiple stakeholders. 
 3. How to build my own portfolio!  
 
-After graduation, I hope to work in a think tank, which is why learning how to honestly present data in digestible ways is very important! 
+After graduation, I hope to work in a think tank, which is why learning how to present data in an honest and transparent way is important. 
 # Portfolio
 
 # Examples
