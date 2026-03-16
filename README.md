@@ -8,13 +8,13 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Check out all the cool projects I learned how to create through this class. 
 
 # About me
-Hi! My name is Caroline Ridge (she/her) and I am a first-year MSPPM student on the D.C. Track! This is my first ever class using Tableau or Github for data visualization projects, so I am very excited to learn some new skills. 
+Hi! My name is Caroline Ridge (she/her) and I am a first-year MSPPM student on the D.C. Track. This is my first ever class using Tableau or Github for data visualization projects, so I am very excited to learn some new skills and hone in my data visualization skills. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+Everything there is to learn! I want to become a wiz at data visualization. But more specifically, here is what I *really* want to learn. 
 
 1. Effectively use data visualizations to tell a story. 
 2. Accessible ways to present data to multiple stakeholders. 
