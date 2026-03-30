@@ -1,4 +1,5 @@
-| [home page](https://cridge14.github.io/caroline-ridge-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://cridge14.github.io/caroline-ridge-portfolio/) | [data viz examples](/caroline-ridge-portfolio/dataviz-examples/) | [critique by design](/caroline-ridge-portfolio/critique-by-design/) | [final project I](/caroline-ridge-portfolio/final-project-part-one/) | [final project II](/caroline-ridge-portfolio/final-project-part-two) | [final project III](/caroline-ridge-portfolio/final-project-part-three/) |
+
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Check out all the cool projects I learned how to create through this class. 
