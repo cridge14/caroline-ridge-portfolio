@@ -9,7 +9,7 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+For my visualization that I wanted to critique and re-design, I chose to look at the 2024 World Happiness Report. [You can see the visualization here](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023). The main way this report is created, and the visualization I will be critiquing, is through the use of Gallup Polls, which is a surveyign . A three-year average for each country, collected from the Gallup Polls. 
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
