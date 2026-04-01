@@ -1,4 +1,3 @@
-
 /caroline-ridge-portfolio/
 /caroline-ridge-portfolio/dataviz-examples
 /caroline-ridge-portfolio/critique-by-design
