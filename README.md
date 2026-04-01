@@ -1,10 +1,12 @@
 
-[Home](https://cridge14.github.io/caroline-ridge-portfolio/)  
-[Data Viz Examples](https://cridge14.github.io/caroline-ridge-portfolio/dataviz-examples)  
-[Critique by Design](https://cridge14.github.io/caroline-ridge-portfolio/critique-by-design)  
-[Final Project Part One](https://cridge14.github.io/caroline-ridge-portfolio/final-project-part-one)  
-[Final Project Part Two](https://cridge14.github.io/caroline-ridge-portfolio/final-project-part-two)  
-[Final Project Part Three](https://cridge14.github.io/caroline-ridge-portfolio/final-project-part-three)
+
+[Home](/caroline-ridge-portfolio/)
+[Data Viz Examples](/caroline-ridge-portfolio/dataviz-examples)
+[Critique by Design](/caroline-ridge-portfolio/critique-by-design)
+[Final Project I](/caroline-ridge-portfolio/final-project-part-one)
+[Final Project II](/caroline-ridge-portfolio/final-project-part-two)
+[Final Project III](/caroline-ridge-portfolio/final-project-part-three)
+
 
 
 
