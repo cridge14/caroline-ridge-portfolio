@@ -1,10 +1,4 @@
 
-[Home](./)
-[Data Viz Examples](./dataviz-examples)
-[Critique by Design](./ject I
-./final-project-part-two
-[Final Project III](./final-project-part-three
-
 
 # Data visualization examples
 This is an example I made in class, visualizing the public's trust in news media sources. 
