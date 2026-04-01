@@ -1,6 +1,8 @@
 | [home page](https://cridge14.github.io/caroline-ridge-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique By Design 
+Check out my Critique By Design! For this assignment, we recreated a visualization from [MakeOverMondays](https://makeovermonday.co.uk/). We critiqued, conducted interviews with other students, and redesigned based on this feedback. 
+
 Text here...
 
 _For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
@@ -27,7 +29,9 @@ Using Stephen's Few "Data Visualization Effectiveness Profile", I scored several
 
 I ranked some of the other features, such as the intuitiveness and aesthetics, on the lower side for the original visualization. Specifically for the intuitiveness, the visualization, and quite frankly the World Happiness Report itself, needs background information to understand how to interpret the data. Readers may get confused and think that the 6 key factors determine the happiness score, but as explained above, that is not the case. The baseline group of dystopia was even confusing for me at first, as I thought it was one of the key factors, but in reality it serves as the baseline group. I want to redesign the visualization to be more intuitive, and also more fun to look at! 
 
+When analyzing the target audience for this visualization, and the report itself, it is a little hard to narrow down *who* exactly is interested in this type of report. Policy students, such as myself, would generally be interested in this report, as it shows global comparison of perceived happiness in countries. In the more recent years, I can also see the general public being interested in this report, as global democratic-backsliding, political volatility, and hostile international relations continue to worsen. This report can also be used to show change over time, perhaps comparing world happiness from pre-to-post COVID. At a surface level, I do believe this visualization shows the intended message- it provides an overall happiness score by country and ranks it from most happy to least happy, which makes it easier for readers to interpret. 
 
+For my re-design, I really want to focus on the aesthetics of the visualization, and presenting the data in a way that is easy to interpret without having to try to hard. I came up with two re-design ideas below! 
 
 ## Step three: Sketch a solution
 
