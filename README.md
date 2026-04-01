@@ -1,13 +1,10 @@
 
-[Home](./)
-[Data Viz Examples](./dataviz-examples)
-[Critique by Design](./ject I
-./final-project-part-two
-[Final Project III](./final-project-part-three
-
-
-
-
+/caroline-ridge-portfolio/
+/caroline-ridge-portfolio/dataviz-examples
+/caroline-ridge-portfolio/critique-by-design
+/caroline-ridge-portfolio/final-project-part-one
+/caroline-ridge-portfolio/final-project-part-two
+/caroline-ridge-portfolio/final-project-part-three
 
 
 
