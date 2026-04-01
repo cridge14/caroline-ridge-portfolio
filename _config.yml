@@ -1,5 +1,6 @@
-
 theme: jekyll-theme-cayman
+title: "Caroline Ridge Portfolio"
+description: "Data Visualization Portfolio"
 markdown: kramdown
 plugins:
-  - jekyll-include-relative
+  - jekyll-include-cache
