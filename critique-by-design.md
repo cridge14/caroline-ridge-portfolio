@@ -8,11 +8,26 @@ _For each step below, you should document your progress as you move forward.  In
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
+For my visualization that I wanted to critique and re-design, I chose to look at the 2024 World Happiness Report. [You can see the visualization here](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023). The World Happiness Report is calculated through this process: The first way is taking a sample of 1000 constituents in each of the 143 countries represented, and having them rank (on a 1-10 scale) their current lives. For each report calculated, the data analyst take a three-year average (i.e. for the 2024 World Happiness Report, it uses data from surveys collected from 2021-2023). 
 
-For my visualization that I wanted to critique and re-design, I chose to look at the 2024 World Happiness Report. [You can see the visualization here](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023). The main way this report is created, and the visualization I will be critiquing, is through the use of Gallup Polls, which is a surveyign . A three-year average for each country, collected from the Gallup Polls. 
+Researchers then use 6 key factors to explain *why* countries differ in happiness (note: they are <not> using these to calculate the score itself). The six key factors are: Log GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and freedom from corruption. The baseline "dystopia" society is used as a comparison for all countries, and is the lowest possible value of all of these factors. 
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+You can see my critique for the originial visualizatoin of the 2024 World Happiness Report Below: 
+
+* Usefulness: 6/10
+* Completeness: 6/10
+* Perceptibility: 8/10
+* Truthfulness: 9/10
+* Intuitiveness: 3/10
+* Aesthetics: 4/10
+* Engagement: 6/10
+
+Using Stephen's Few "Data Visualization Effectiveness Profile", I scored several aspects of the original visualization. I ranked categories such as the usefulness, perceptibilty, and truthfulness quite high, because I do believe the visualization excelled in these categories. I think the visualization is something that is interesting to look at, and I think people may care how their country compares to others, especially from a human rights watchdog perspective. I also believe that the original visualization, albeit boring, did a good job at presenting the data in an accurate way. 
+
+I ranked some of the other features, such as the intuitiveness and aesthetics, on the lower side for the original visualization. Specifically for the intuitiveness, the visualization, and quite frankly the World Happiness Report itself, needs background information to understand how to interpret the data. Readers may get confused and think that the 6 key factors determine the happiness score, but as explained above, that is not the case. The baseline group of dystopia was even confusing for me at first, as I thought it was one of the key factors, but in reality it serves as the baseline group. I want to redesign the visualization to be more intuitive, and also more fun to look at! 
+
+
 
 ## Step three: Sketch a solution
 
