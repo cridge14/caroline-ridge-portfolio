@@ -1,4 +1,10 @@
-| [home page]([https://cmustudent.github.io/tswd-portfolio-templates/](https://cridge14.github.io/caroline-ridge-portfolio/)) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+
+[Home](/caroline-ridge-portfolio/)  
+[Data Viz Examples](/caroline-ridge-portfolio/dataviz-examples)  
+[Critique by Design](/caroline-ridge-portfolio/critique-by-design)  
+[Final Project Part One](/caroline-ridge-portfolio/final-project-part-one)  
+[Final Project Part Two](/caroline-ridge-portfolio/final-project-part-two)  
+[Final Project Part Three](/caroline-ridge-portfolio/final-project-part-three)
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
