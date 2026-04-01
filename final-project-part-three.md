@@ -1,9 +1,4 @@
 
-[Home](./)
-[Data Viz Examples](./dataviz-examples)
-[Critique by Design](./ject I
-./final-project-part-two
-[Final Project III](./final-project-part-three
 
 
 # The final data story
