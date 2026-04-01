@@ -1,9 +1,9 @@
-/caroline-ridge-portfolio/
-/caroline-ridge-portfolio/dataviz-examples
-/caroline-ridge-portfolio/critique-by-design
-/caroline-ridge-portfolio/final-project-part-one
-/caroline-ridge-portfolio/final-project-part-two
-/caroline-ridge-portfolio/final-project-part-three
+[Home](/caroline-ridge-portfolio/)
+[Data Visualization Examples](dataviz-examples)
+[Critique By Design](critique-by-design)
+[Final Project Part 1](final-project-part-one)
+[Final Project Part 2](final-project-part-two)
+[Final Project Part 3](final-project-part-three)
 
 
 
