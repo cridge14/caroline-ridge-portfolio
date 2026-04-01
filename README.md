@@ -1,11 +1,10 @@
 
+[Home](./)
+[Data Viz Examples](./dataviz-examples)
+[Critique by Design](./ject I
+./final-project-part-two
+[Final Project III](./final-project-part-three
 
-[Home](/caroline-ridge-portfolio/)
-[Data Viz Examples](/caroline-ridge-portfolio/dataviz-examples)
-[Critique by Design](/caroline-ridge-portfolio/critique-by-design)
-[Final Project I](/caroline-ridge-portfolio/final-project-part-one)
-[Final Project II](/caroline-ridge-portfolio/final-project-part-two)
-[Final Project III](/caroline-ridge-portfolio/final-project-part-three)
 
 
 
