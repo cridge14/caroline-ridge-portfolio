@@ -37,7 +37,7 @@ For my re-design, I really want to focus on the aesthetics of the visualization,
 
 For this project, I initially came up with two sketch ideas. This is Sketch Idea #1: 
 
-
+<img src='Sketch Idea #1.jpg', width: "200"/>
 
 ## Step four: Test the solution
 
