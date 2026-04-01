@@ -1,6 +1,5 @@
 
 
-
 # Critique By Design 
 Text here...
 
