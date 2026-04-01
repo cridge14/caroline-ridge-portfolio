@@ -39,6 +39,7 @@ For this project, I initially came up with two sketch ideas. This is Sketch Idea
 
 <img src="Sketch-Idea-1.jpg" width="500"/> 
 
+For sketch idea 1, the idea was to represent the countries in different emotional faces. So, countries that rank relatively high on the index (those above a 5 rating) would be represented with smiley faces, those with neutral ratings (between 3-5) would be represented with "meh" faces, and then countries that rank relatively poorly (below a 3) would be represented with frowney faces. I also incorporated a color scale (even though I need to be aware of color-blindness, something that will be brought up later in this discussion) to show positive/ happy emotions, and then negative/ sad emotions. 
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
