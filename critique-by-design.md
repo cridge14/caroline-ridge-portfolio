@@ -36,6 +36,7 @@ For this project, I initially came up with two sketch ideas. This is Sketch Idea
 For sketch idea 1, the idea was to represent the countries in different emotional faces. So, countries that rank relatively high on the index (those above a 5 rating) would be represented with smiley faces, those with neutral ratings (between 3-5) would be represented with "meh" faces, and then countries that rank relatively poorly (below a 3) would be represented with frowney faces. I also incorporated a color scale (even though I need to be aware of color-blindness, something that will be brought up later in this discussion) to show positive/ happy emotions, and then negative/ sad emotions. I thought this would be a more fun, creative way to show the same data. 
 
 This is my second sketch idea: 
+
 <img src="Sketch-Idea-2.jpg" width="500"/> 
 
 For sketch idea 2, I wanted to do a more general visualization than the smiley/frowney face idea. I kept the color scale very similar to above, using darker green to represent the happier countries, and dark red to represent the least happy countries. I thought the map was a cool idea, and readers could not only compare countries, but also regions (i.e. Nordic countries rank higher than countries in the Middle East). 
