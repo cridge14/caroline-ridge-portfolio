@@ -76,7 +76,7 @@ I had a really fun time building this in Tableau, and it was so much easier than
 
 ## References
 [2024 World Happiness Report](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)
-[Steven Few's Data Visualization Effectiveness Profile] (https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
+[Steven Few's Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 
 ## AI acknowledgements
 I used CoPilot to help me create the visualization. It helped me load the correct fields into Tableau to create the map outline, and then also to visualize the color scale from the happiness index. That was the only way I used AI for this assignment. 
