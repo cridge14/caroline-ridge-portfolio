@@ -42,8 +42,6 @@ For sketch idea 2, I wanted to do a more general visualization than the smiley/f
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
 The next steps were to get feedback on my visualizations. I did this in two separate ways: 
 * Simple poll on which visualization people liked better
 * in-depth interviews to find the reasons *why* they liked one visualization better than the other.
