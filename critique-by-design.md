@@ -9,7 +9,7 @@ For my visualization that I wanted to critique and re-design, I chose to look at
 Researchers then use 6 key factors to explain *why* countries differ in happiness (note: they are not using these to calculate the score itself). The six key factors are: Log GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and freedom from corruption. The baseline "dystopia" society is used as a comparison for all countries, and is the lowest possible value of all of these factors. 
 
 ## Step two: the critique
-You can see my critique for the originial visualizatoin of the 2024 World Happiness Report Below: 
+You can see my critique for the originial visualization of the 2024 World Happiness Report Below: 
 
 * Usefulness: 6/10
 * Completeness: 6/10
