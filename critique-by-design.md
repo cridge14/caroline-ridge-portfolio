@@ -3,12 +3,6 @@
 # Critique By Design 
 Check out my Critique By Design! For this assignment, we recreated a visualization from [MakeOverMondays](https://makeovermonday.co.uk/). We critiqued, conducted interviews with other students, and redesigned based on this feedback. 
 
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
-
 ## Step one: the visualization
 For my visualization that I wanted to critique and re-design, I chose to look at the 2024 World Happiness Report. [You can see the visualization here](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023). The World Happiness Report is calculated through this process: The first way is taking a sample of 1000 constituents in each of the 143 countries represented, and having them rank (on a 1-10 scale) their current lives. For each report calculated, the data analyst take a three-year average (i.e. for the 2024 World Happiness Report, it uses data from surveys collected from 2021-2023). 
 
@@ -39,37 +33,34 @@ For this project, I initially came up with two sketch ideas. This is Sketch Idea
 
 <img src="Sketch-Idea-1.jpg" width="500"/> 
 
-For sketch idea 1, the idea was to represent the countries in different emotional faces. So, countries that rank relatively high on the index (those above a 5 rating) would be represented with smiley faces, those with neutral ratings (between 3-5) would be represented with "meh" faces, and then countries that rank relatively poorly (below a 3) would be represented with frowney faces. I also incorporated a color scale (even though I need to be aware of color-blindness, something that will be brought up later in this discussion) to show positive/ happy emotions, and then negative/ sad emotions. 
+For sketch idea 1, the idea was to represent the countries in different emotional faces. So, countries that rank relatively high on the index (those above a 5 rating) would be represented with smiley faces, those with neutral ratings (between 3-5) would be represented with "meh" faces, and then countries that rank relatively poorly (below a 3) would be represented with frowney faces. I also incorporated a color scale (even though I need to be aware of color-blindness, something that will be brought up later in this discussion) to show positive/ happy emotions, and then negative/ sad emotions. I thought this would be a more fun, creative way to show the same data. 
+
+This is my second sketch idea: 
+<img src="Sketch-Idea-2.jpg" width="500"/> 
+
+For sketch idea 2, I wanted to do a more general visualization than the smiley/frowney face idea. I kept the color scale very similar to above, using darker green to represent the happier countries, and dark red to represent the least happy countries. I thought the map was a cool idea, and readers could not only compare countries, but also regions (i.e. Nordic countries rank higher than countries in the Middle East). 
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
-Questions to ask (modify these for your own interviews): 
+The next steps were to get feedback on my visualizations. I did this in two separate ways: 
+* Simple poll on which visualization people liked better
+* in-depth interviews to find the reasons *why* they liked one visualization better than the other.
 
-- Can you tell me what you think this is?
+I received a lot of in-sight through both of these methods. Below are my results: 
 
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+Questions: 
+* Which visualization initially stood out to you?
+* Without knowing any further data, what story are these visualizations telling? And which tells it better?
+* If you could change one thing about the visualization, what would you change?
+* Any other general feedback?
 
 Synthesis: 
+For the poll itself, the map won the overall votes (10-2). As for the interview questions, I gained some valuable insight from discussing them with 3 other PPM students. The major insight was the color scale for both visualizations. They currently were not very accessible for individuals with red-green color blindness, which was definitely something I forgot to consider when designing these sketches. I did remember, however, that Tableau had set color gradients that passed accessibility concerns, which included a red-green color scale. 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Comparing the two visualizations, my audience made some very good points. Firstly, they acknowledged that while my sketch idea #1 only included a view countries, when I would build it fully out in Tableau, there would be 143 countries represented, which is a HUGE number of countries in a graphic like that. The faces would most likely overlap (I didn't actually build this out in Tableau, but it's most likely true) and there would just be too much noise. They also brought up the fact that in my current graph, the y-axis had no values. This would only contribute further to the clutteredness. As for my map visualization, there was not too much feedback brought up about that, besides making sure my color scale is accessible. Ulimately, after reviewing all the feedback, I decided to go with sketch idea #2 for my final visualization. 
+
 
 ## Step five: build the solution
 Here is the solution that I decided to build for class. 
@@ -83,11 +74,10 @@ Here is the solution that I decided to build for class.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+I had a really fun time building this in Tableau, and it was so much easier than other data visualization tools I've used that create the same content (I'm looking at you, R Studio). I ended up using a red-green color scale, but chose one of the pre-created Tableau ones, which is vetted for accessibility concerns. I really enjoy that the map is interactive, it does a good job at showing comparisons by countries and regions, and (at least in my opinion) is much more fun to look at and interact with than the original visualization was. I tried to also build out my sketch idea #1 in Tableau, but ran into many issues. I am curious, though, what it would have looked like if it was created! 
 
 ## References
-_List any references you used here._
+[2024 World Happiness Report](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+I used CoPilot to help me create the visualization. It helped me load the correct fields into Tableau to create the map outline, and then also to visualize the color scale from the happiness index. That was the only way I used AI for this assignment. 
