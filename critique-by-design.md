@@ -75,8 +75,8 @@ Here is the solution that I decided to build for class.
 I had a really fun time building this in Tableau, and it was so much easier than other data visualization tools I've used that create the same content (I'm looking at you, R Studio). I ended up using a red-green color scale, but chose one of the pre-created Tableau ones, which is vetted for accessibility concerns. I really enjoy that the map is interactive, it does a good job at showing comparisons by countries and regions, and (at least in my opinion) is much more fun to look at and interact with than the original visualization was. I tried to also build out my sketch idea #1 in Tableau, but ran into too many issues (and ran out of patience). I am curious, though, what it would have looked like if it was created! 
 
 ## References
-[2024 World Happiness Report](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)
-[Steven Few's Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
+* [2024 World Happiness Report](https://www.worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)
+* [Steven Few's Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
 
 ## AI acknowledgements
 I used CoPilot to help me create the visualization. It helped me load the correct fields into Tableau to create the map outline, and then also to visualize the color scale from the happiness index. That was the only way I used AI for this assignment. 
