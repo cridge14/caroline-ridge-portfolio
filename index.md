@@ -32,13 +32,14 @@ After graduation, I hope to work in a think tank, which is why learning how to p
 # Examples
 
 ## Assignment: [Visualizing Government Debt](visualizinggovernmentdebt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+Check out my assignment where I visualized government debt! A high-level overview: I compared countries in North America and Europe pre-and-post the 2008 recession to study changes in the amount of government debt as overall GDP. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+This is my critique by design assignment! I critiqued, gathered feedback, and redesigned the 2024 World Happiness Report.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+For my final project, I want to do a history of the Americans with Disabilities Act, providing a space for the voices of individuals with disabilities to tell their stories. I want to look at a general overview of the Disability Rights Movement, how the ADA has improved (and areas of growth), and study the intersection of disability with other areas, such as healthcare and transportation. You can click on the links below to see my thought process behind every step in creating my final project.  
+
 [Part I](final-project-part-one) 
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
