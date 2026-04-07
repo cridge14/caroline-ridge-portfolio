@@ -41,12 +41,12 @@ With this story, I hope that everyone is able to take a step back and into someo
 To draw up my sketches for this part of the project, I mapped out the peaks and dips in my stories and associated them with what parts of my story I was telling. I created one graph for the main page, and then one graph for pages 2-5, as they will follow a similar cadence, with the same peaks and dips. 
 
 Here is the sketch for page one: 
-<img src="Final-Sketch-Idea-1.jpg" width="500"/> 
+<img src="Final-Project-Sketch-1.png" width="500"/> 
 
 In this sketch, I begin by just sharing general information about the ADA, leaving feelings pretty neutral. I then want to shift into the disabilities rights movement, and the powerful and inspiring stories of disability rights activists. Then, when I move into talking about the current state of the ADA, feelings might be lower/bad, because it is not a great outlook for people with disabilities, especially with the current administration's many rollbacks on these protections. At the end, my call to action is also pretty neutral for the main page, and I want this page to be mostly informative and perspective sharing. This is a very serious issue that millions of individuals experience every day, and I think telling a somber story to share their lived experiences is appropriate. 
 
 For the next pages, I wanted to put a more positive spin on the ends of those stories. Here is the sketch idea for these pages: 
-<img src="Final-Sketch-Idea-2.jpg" width="500"/> 
+<img src="Final-1-Sketch-Idea-2" width="500"/> 
 
 In this sketch, similarly to the main page, I just begin by highlighting the interaction of the ADA and the particular field I am discussing. So, for example, in the ADA & Healthcare page, I would just being by presenting data about healthcare facilities, how many people with disabilities seek medical care less than their non-disabled counterparts, etc. I then move into the reality behind *why* people with disabilities experience these issues. Back to the medical example, due to inaccessible mammogram equipment, wheelchair-bound women get their annual mammograms at much lower rates than non-disabled women. However, instead of ending on a somber note, like on the main page, I want to leave readers with knowledge that there are a lot of brilliant minds that care about these issues, and are making innovative solutions to create a more equitable society. So I will highlight specific things that are advancing accessibility in each of the highlighted topics. The only slight deviation from this pattern will be for the "Accessbility on CMU's Campus!" page, as (for what I know as of now, at least) there are no current actions/ plans being made to create more accessible routes. 
 
