@@ -1,7 +1,5 @@
 | [home page](https://cridge14.github.io/caroline-ridge-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 Read below to gain some insight into the early planning stages of my final project! For this part of the assignment, we broke down the project to its core. We analyzed what story we wanted to tell, the best way to tell said story, and how to final publicly accessible data to aid in our storytelling. 
 
 # Outline
@@ -53,17 +51,16 @@ For the next pages, I wanted to put a more positive spin on the ends of those st
 In this sketch, similarly to the main page, I just begin by highlighting the interaction of the ADA and the particular field I am discussing. So, for example, in the ADA & Healthcare page, I would just being by presenting data about healthcare facilities, how many people with disabilities seek medical care less than their non-disabled counterparts, etc. I then move into the reality behind *why* people with disabilities experience these issues. Back to the medical example, due to inaccessible mammogram equipment, wheelchair-bound women get their annual mammograms at much lower rates than non-disabled women. However, instead of ending on a somber note, like on the main page, I want to leave readers with knowledge that there are a lot of brilliant minds that care about these issues, and are making innovative solutions to create a more equitable society. So I will highlight specific things that are advancing accessibility in each of the highlighted topics. The only slight deviation from this pattern will be for the "Accessbility on CMU's Campus!" page, as (for what I know as of now, at least) there are no current/ plans being made to create more accessible routes. 
 
 # The data
-***this page needs updated when I finish this all tomorrow. Find some data sources, and then break down the general ways I will be using them for the different aspects I need for my project. Can even put some sources from the policy memo as placeholders for now, and then update as needed.
-
 I will be using a *lot* of data to cover all the aspects of my project. Below are just some of the sources I plan on using, whether to create my visualizations in Tableau, or to share the stories of individuals with disabilities through my work: 
 
-* insert some website links
-* here too
-* and here
-* and one more time here
+* [The History of the Americans with Disabilities Act](https://dredf.org/the-history-of-the-americans-with-disabilities-act/)
+* [Disability Stories Project](https://www.chril.org/stories) 
+* [35 Years of the ADA: What Has Changed, and What Still Needs to](https://disabilityrightsflorida.org/blog/entry/35_years_of_the_ada)
+* [Access and Participation of Students with Disabilities: The Challenge for Higher Education](https://pmc.ncbi.nlm.nih.gov/articles/PMC9565787/) 
 
-This 
+These sources are just the beginning of my list, and there will probably be more that I gather as I begin to start builidng visualizations and incorporate more stories into my project. These data sources also vary in what topics they cover; the first is a overview/ history of the ADA, the second is videos/ stories of individuals with disabilities, specifically focusing through a healthcare lense. The third is areas of the ADA that still need improved to create a more equitable society for all individuals. And the last data source focuses on higher education access. 
 
+I am not sure 100% which direction I want to take these sources (and which new ones I will come across), but I know I want to highlight stories with visualizations, but also share statistics. For example, in the ADA & Healthcare, I want to show a graph or table of the percentage of medical facilities that are still inaccessible for wheelchair users. For ADA & Higher Education, I want to show the percentage of students with disabilities who attend a higher education program of any sort (associates, bachelors, post-grad options). I think I have a pretty solid foundation for how I want this project to look, and I am excited to see it all play out in the end! 
 
 
 # Method and medium
