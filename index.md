@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Home
 ---
 
@@ -51,5 +50,4 @@ No references!
 
 ## AI acknowledgements
 No AI use! 
-
 
